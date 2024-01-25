@@ -1,0 +1,21 @@
+.myApp{
+  background-color: darkgray;
+}
+.myCard{
+  margin: 0 auto;
+}
+
+h3{
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.profil{
+  text-align: center;
+}
+
+.profil img{
+  border-radius: 15px;
+  border: 2px dashed black;
+}
